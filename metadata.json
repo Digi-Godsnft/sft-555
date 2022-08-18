@@ -2,8 +2,8 @@
   "name": "DigiGods",
   "symbol": "DIGI",
   "description": "The Digi Gods SFT",
-  "image": "<https://arweave.net/26YdhY_eAzv26YdhY1uu9uiA3nmDZYwP8MwZAultcE?ext=jpeg>",
-  "animation_url": "<https://arweave.net/ZAultcE_eAzv26YdhY1uu9uiA3nmDZYwP8MwuiA3nm?ext=mp4>",
+  "image": "https://raw.githubusercontent.com/Digi-Godsnft/sft-555/main/nft.jpg",
+  "animation_url": "<https://raw.githubusercontent.com/Digi-Godsnft/sft-555/main/nft.mp4>",
   "external_url": "<https://digigodsnft.com>",
   "attributes": [
 
